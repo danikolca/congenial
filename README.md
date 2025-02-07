@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Силіконовий Підстаканник для Авто</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="script.JS">
+</head>
+<body>
+
+<header>
+    <h1>СИЛІКОНОВИЙ ПІДСТАКАННИК ДЛЯ АВТО</h1>
+    <img src="pictires.img/photo_1.jpg" alt="Силіконовий очищувач" class="product-image">
+</header>
+
+<div class="price-section">
+    <p class="old-price">299 грн</p>
+    <p class="new-price">199 грн</p>
+    <p>Пропозиція діє з 04.02.2025 по 10.02.2025</p>
+    <a href="#" class="discount-btn">ЗАМОВИТИ ЗІ ЗНИЖКОЮ</a>
+    <select name="" id=""  style="font-size: 20px;">
+        <option value="Red">Red</option>
+        <option value="White">White</option>
+        <option value="Blue">Blue</option>
+    </select>
+</div>
+
+<div class="section">
+    <h2>ЧОМУ ВАРТО ЗАМОВИТИ?</h2>
+    <img src="pictires.img/photo_2.jpg" alt="Особливість 1" class="feature-img">
+    <p>Протиковзкий, Захист від Пилу, Легке Очищення - Підходить для Більшості Транспортних Засобів.</p>
+</div>
+
+<div class="section">
+    <h2>ОСОБЛИВОСТІ</h2>
+    <img src="pictires.img/photo_3.jpg" alt="Особливість 2" class="feature-img">
+    <p>
+    - 1 міцні підставки, які підходять для більшості автомобільних тримачів для келихів з універсальним діаметром<br>
+    - Дизайн з протиковзанням запобігає розливанню напоїв, навіть на нерівних дорогах<br>
+    - Легко чистити та підтримувати, просто промийте водою та дайте висохнути на повітрі
+    - Захищає ваші тримачі для чашок від подряпин і пошкоджень, спричинених чашками та пляшками ️
+    </p>
+</div>
+
+<div class="section">
+    <h2>ЯК ВИКОРИСТОВУВАТИ?</h2>
+    <img src="pictires.img/photo_red.jpg" alt="Особливість 3" class="feature-img">
+    <p>
+        Зберігайте чистоту та порядок у тримачах для келихів у вашому автомобілі за допомогою цих протипилових килимків
+    </p>
+</div>
